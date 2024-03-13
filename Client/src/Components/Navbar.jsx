@@ -8,10 +8,11 @@ const navLinks = [
     url: "/",
     title: "Lectures",
   },
-  { id: 2, url: "/assignments", title: "Assignments" },
-  { id: 3, url: "/discussions", title: "Discussions" },
-  { id: 4, url: "/messages", title: "Messages" },
+  // { id: 2, url: "/assignments", title: "Assignments" },
+  // { id: 3, url: "/discussions", title: "Discussions" },
+  // { id: 4, url: "/messages", title: "Messages" },
   { id: 5, url: "/courses", title: "Courses" },
+  { id: 6, url: "/create", title: "Create" },
 ];
 const Navbar = () => {
   const [open, setOpen] = useState(false);
@@ -29,11 +30,13 @@ const Navbar = () => {
   return (
     <div className="w-[100%] min-h-[40px] h-[100%] mt-0 mx-auto  bg-primary flex flex-col md:flex-row justify-evenly items-center p-2">
       <div className="w-[90%] md:w-[100%] mx-auto  flex flex-row justify-between items-center">
-        <img
-          className="w-[180px]"
-          src="https://i.postimg.cc/k53X3jW2/Edu-hub.png"
-          alt=""
-        />
+        <Link to="/">
+          <img
+            className="w-[180px]"
+            src="https://i.postimg.cc/k53X3jW2/Edu-hub.png"
+            alt=""
+          />
+        </Link>
         <div className="md:hidden" onClick={(e) => setOpen((prev) => !prev)}>
           <Button />
         </div>
@@ -42,7 +45,7 @@ const Navbar = () => {
       {/*  nav links */}
       <div
         style={{ display: open ? "none" : "inline-flex" }}
-        className=" h-[100%] flex flex-col md:flex-row md:gap-5 items-center"
+        className=" h-[100%]  hidden flex-col   md:flex-row md:gap-5 items-center"
       >
         {navLinks.map((ele) => {
           return (

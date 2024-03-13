@@ -1,10 +1,13 @@
 import React from "react";
 import AllRoutes from "../Routes/AllRoutes";
+import Footer from "../Components/Footer";
 
 const Homepage = () => {
   return (
-    <div>
+    <div className="w-full ">
       <AllRoutes />
+      <hr />
+      <Footer />
     </div>
   );
 };
