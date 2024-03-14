@@ -12,6 +12,9 @@ server GraphQL, Express, and MongoDB for APIs.
 
 EduHub is an advanced Learning Management System (LMS) fostering interactive online education. With Tailwind CSS, React, React Router, and Ant Design components, it offers personalized learning experiences. While UI is complete, server development is ongoing, utilizing GraphQL, Express, and MongoDB for APIs.
 
+## Disclaimer : Due to page not found issue from netlify and time constraint causes smooth user experience , please test locally .
+Due to time constraint client and server side is incomplete .
+
 **Netlify (Client):**  [Edu_Hub Website](https://eduhub225.netlify.app)
 **Render (Server) :**  [Edu_Hub server](https://eduhub-t21f.onrender.com/graphql)
 ## Tech Stack
@@ -20,11 +23,21 @@ EduHub is an advanced Learning Management System (LMS) fostering interactive onl
 ![jsonwebtoken](https://img.shields.io/badge/jsonwebtoken-%232C2D72.svg?style=for-the-badge&logo=jsonwebtoken&logoColor=white)
 
 
-
+## Client :
 ### Home Page :-
-This is the homepage of VideoClone web application.
+This is the homepage of Eduhub web application.
 <br>
 <a href="https://ibb.co/hfS07qK"><img src="https://i.ibb.co/Vms6jKv/ed-home.png" alt="ed-home" border="0"></a>
+
+### Signup Page :-
+This is the signup of Eduhub web application.
+<br>
+<a href="https://ibb.co/tpvKKpC"><img src="https://i.ibb.co/0y622yJ/signup-c.png" alt="signup-c" border="0"></a>
+
+### Login Page :-
+This is the login of Eduhub web application.
+<br>
+<a href="https://ibb.co/2Nz3Cwc"><img src="https://i.ibb.co/JQYjGNr/login-c.png" alt="login-c" border="0"></a>
 
 ## Server
 ### Signup  :-
