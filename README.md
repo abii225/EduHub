@@ -31,19 +31,21 @@ This is the homepage of VideoClone web application.
 
 ## Getting Started:
 
+## Client side
 Clone the Repository: Clone the Videoclone repository using the command: git clone [repository_url].
 
-Navigate to Videoclone Directory: Move into the Videoclone directory: cd videoClone.
+Navigate to Videoclone Directory: Move into the Videoclone directory: cd Client.
 
 Install Dependencies: Install required dependencies with: npm install.
 
 Start the Server: Launch the Videoclone server using: npm run dev.
 
-Get started with Videoclone today to simplify your video content browsing experience. Efficiently explore, interact, and enjoy a wide array of video content with ease, powered by the latest web technologies and a smooth development experience with Vite.
+## Server side
+Navigate to Videoclone Directory: Move into the Videoclone directory: cd Server.
 
+Install Dependencies: Install required dependencies with: npm install.
 
-
-
+Start the Server: Launch the Videoclone server using: npm run server.
 
 ## Feedback
 
