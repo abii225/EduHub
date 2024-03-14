@@ -6,37 +6,17 @@
 
 
 # Edu_Hub
-Introducing Videoclone: A Tailwind CSS, React TypeScript, and React Router Application
 
-Videoclone is a state-of-the-art web application designed to streamline video content consumption. Developed using Tailwind CSS, React TypeScript, and React Router, Videoclone offers a user-friendly interface and efficient navigation capabilities.
+Introducing EduHub: A Tailwind CSS, React TypeScript, and React Router Application
 
-## Key Features:
+EduHub is an advanced Learning Management System (LMS) fostering interactive online education. With Tailwind CSS, React, React Router, and Ant Design components, it offers personalized learning experiences. While UI is complete, server development is ongoing, utilizing GraphQL, Express, and MongoDB for APIs.
 
-<u>Video Posts</u> : Share and view video content effortlessly within the application.
-
-<u>Interaction</u>: Engage with video content by liking and commenting on posts.
-
-<u>Grid View Homepage</u>: Explore video posts conveniently through a grid layout on the homepage.
-
-<u>Pagination</u>: Seamlessly navigate through multiple pages of video posts with pagination functionality.
-
-<u>Single Post View</u>: Dive deeper into individual video posts for a focused viewing experience.
-
-<u>Responsive Design</u>: Enjoy a consistent user experience across various devices, thanks to responsive design principles.
-
-<u>Context API State Management</u>: Efficiently manage application state using Context API for optimal performance.
-
-<u>Additional Features</u>:
-
-Vite Build: Developed with Vite for ease of compilation and bundling, ensuring swift development iterations and enhanced performance.
-
-
-VideoClone: VideoClone is a sleek and responsive web application, built with Tailwind CSS, React TypeScript, and React Router, enabling seamless video content consumption, interaction, and exploration with efficient pagination and single post views, all managed with Context API state management and compiled with Vite for optimal performance.
-**Netlify :**  [VideoClone Website](https://videoclone225.netlify.app/)
+**Netlify (Client):**  [Edu_Hub Website](https://eduhub225.netlify.app)
+**Render (Server) :**  [Edu_Hub server](https://eduhub-t21f.onrender.com/graphql)
 ## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+   ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 
 
 ### Home Page :-
