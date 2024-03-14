@@ -24,8 +24,16 @@ This is the homepage of VideoClone web application.
 <br>
 <a href="https://ibb.co/hfS07qK"><img src="https://i.ibb.co/Vms6jKv/ed-home.png" alt="ed-home" border="0"></a>
 
+## Server
+### Signup  :-
+This is the graphql mutation syntax for signup.
+<br>
+<a href="https://ibb.co/tYMkqTH"><img src="https://i.ibb.co/nQsZ7Nw/signup.png" alt="signup" border="0"></a><br /><a target='_blank' href='https://usefulwebtool.com/'>font keyboard</a><br />
 
-
+### Login  :-
+This is the graphql mutation syntax for Login.
+<br>
+<a href="https://ibb.co/1bkBhBx"><img src="https://i.ibb.co/0Qx1813/login.png" alt="login" border="0"></a>
 
 
 
