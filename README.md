@@ -30,12 +30,17 @@ This is the homepage of VideoClone web application.
 ### Signup  :-
 This is the graphql mutation syntax for signup.
 <br>
-<a href="https://ibb.co/tYMkqTH"><img src="https://i.ibb.co/nQsZ7Nw/signup.png" alt="signup" border="0"></a><br /><a target='_blank' href='https://usefulwebtool.com/'>font keyboard</a><br />
+<a href="https://ibb.co/NnCghN5"><img src="https://i.ibb.co/R4bGn6f/signup.png" alt="signup" border="0"></a>
 
 ### Login  :-
 This is the graphql mutation syntax for Login.
 <br>
-<a href="https://ibb.co/DCd0zDG"><img src="https://i.ibb.co/WyCmGWD/login.png" alt="login" border="0"></a>
+<a href="https://ibb.co/jHRSGCp"><img src="https://i.ibb.co/9Gt72xM/login.png" alt="login" border="0"></a>
+
+### Create a course  :-
+This is the graphql mutation syntax for post a course.
+<br>
+<a href="https://ibb.co/sKrrtVR"><img src="https://i.ibb.co/fk77QxF/create-course.png" alt="create-course" border="0"></a>
 
 ## Getting Started:
 
