@@ -33,9 +33,7 @@ This is the graphql mutation syntax for signup.
 ### Login  :-
 This is the graphql mutation syntax for Login.
 <br>
-<a href="https://ibb.co/1bkBhBx"><img src="https://i.ibb.co/0Qx1813/login.png" alt="login" border="0"></a>
-
-
+<a href="https://ibb.co/DCd0zDG"><img src="https://i.ibb.co/WyCmGWD/login.png" alt="login" border="0"></a>
 
 ## Getting Started:
 
