@@ -12,8 +12,9 @@ server GraphQL, Express, and MongoDB for APIs.
 
 EduHub is an advanced Learning Management System (LMS) fostering interactive online education. With Tailwind CSS, React, React Router, and Ant Design components, it offers personalized learning experiences. While UI is complete, server development is ongoing, utilizing GraphQL, Express, and MongoDB for APIs.
 
-## Disclaimer : Due to page not found issue from netlify and time constraint causes smooth user experience , please test locally .
-Due to time constraint client and server side is incomplete .
+## Disclaimer : 
+Due to page not found issue from netlify and time constraint causes smooth user experience , please test locally .
+Due to time constraint client and server side is incomplete . 
 
 **Netlify (Client):**  [Edu_Hub Website](https://eduhub225.netlify.app)
 **Render (Server) :**  [Edu_Hub server](https://eduhub-t21f.onrender.com/graphql)
