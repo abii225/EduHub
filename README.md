@@ -1,5 +1,5 @@
 
-![VideoClone](https://i.ibb.co/Q70Pn7w/logo.png)
+![Edu_Hub](https://i.postimg.cc/k53X3jW2/Edu-hub.png)
 
 
 
